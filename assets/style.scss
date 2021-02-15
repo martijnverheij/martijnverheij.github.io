@@ -322,9 +322,9 @@ p > img {
 }
 
 .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
+  float: center;
+  width: 500px;
+  height: 168px;
   margin-right: 15px;
 
   @include mobile {
