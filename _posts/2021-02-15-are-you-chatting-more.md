@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Are you chatting more?
+title: Are you chatting more?
 categories: Email, teams, test,
 excerpt: E-mail is still the number ons way of quick communication with each other. Everyone understands it, and use it.
 ---
